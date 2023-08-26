@@ -8,8 +8,8 @@ export function Navigation() {
       <Container>
         <Nav className="me-auto">
           <Nav.Link href="#home">About</Nav.Link>
-          <Nav.Link href="#link">Projects</Nav.Link>
-          <Nav.Link href="#link">Contact</Nav.Link>
+          <Nav.Link href="#home">Projects</Nav.Link>
+          <Nav.Link href="#home">Contact</Nav.Link>
         </Nav>
       </Container>
     </Navbar>
